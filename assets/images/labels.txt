@@ -1,0 +1,8 @@
+0 Red
+1 Blue
+2 yellow
+3 black
+4 green
+5 purple
+6 white
+7 lemon

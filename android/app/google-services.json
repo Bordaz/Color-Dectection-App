@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "797595913210",
+    "project_id": "recognition-f8b99",
+    "storage_bucket": "recognition-f8b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797595913210:android:8461339aef12f013e9f243",
+        "android_client_info": {
+          "package_name": "com.mycompany.colorrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797595913210-plisk4rcvoo7jnf0vblhqdl4ru8cno5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Kee-cKdvknp6XNbo3j5r3sDekTVnrbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797595913210-plisk4rcvoo7jnf0vblhqdl4ru8cno5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797595913210-hv2msl2trr2tf6krr937tt85fu6vm6s7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.colorrecognition"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
